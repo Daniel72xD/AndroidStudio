@@ -14,7 +14,7 @@ import java.text.BreakIterator;
 public class MainActivity extends AppCompatActivity {
     EditText etText;
     Button button;
-    //Test
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
